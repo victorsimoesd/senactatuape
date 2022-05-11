@@ -1,0 +1,19 @@
+Testando as tensões eletrica da tomada; 
+Fase com neutro: 122,7V
+Fase com terra: 122,7V
+Neutro com Terra: 0V
+
+Testando a continuaidade do cabo de força;
+Fase: 0,0
+Terra: 0,0
+Neutro: 0,0
+
+Testando a resistencia  do cabo de força;
+Fase:0,2V 
+Neutro: 0,2V
+Terra: 0,2V
+
+Testando as tensões eletricas no cabo;
+Fase com Terra: 121,9V
+Fase com Neutro: 120,7V
+Neutro com Terra: 0,5V
