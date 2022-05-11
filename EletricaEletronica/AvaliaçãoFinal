@@ -17,3 +17,9 @@ Testando as tensões eletricas no cabo;
 Fase com Terra: 121,9V
 Fase com Neutro: 120,7V
 Neutro com Terra: 0,5V
+
+Testando a fonte de alimentação com o testador de fonte;
+
+Circuito de 12V: 11,95
+Circuito de 5V: 5,01
+Circuito de 7V: 6,91
