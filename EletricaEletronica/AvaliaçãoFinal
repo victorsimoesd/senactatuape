@@ -23,3 +23,12 @@ Testando a fonte de alimentação com o testador de fonte;
 Circuito de 12V: 11,95
 Circuito de 5V: 5,01
 Circuito de 7V: 6,91
+
+Montar o circuito com 2 multímetros
+Primeiro multímetro: testar tensão elétrica (20V)
+Segundo multímetro: Testar corrente eletríca (10A)
+
+Montando o circuito em paralelo dos coolers
+ 
+Montando o circuito em paralelo dos led´s
+medindo a resistencia do resistor: 329ohms
