@@ -11,5 +11,5 @@ sudo reboot - reiniciar
 sudo apt install - instalar aplicativo
 sudo apt install p7zip-full p7zip-rar
 sudo apt install razam
-sudo init 0
+sudo init 0 
  
