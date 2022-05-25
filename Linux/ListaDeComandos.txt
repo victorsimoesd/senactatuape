@@ -12,4 +12,22 @@ sudo apt install - instalar aplicativo
 sudo apt install p7zip-full p7zip-rar
 sudo apt install razam
 sudo init 0
+ls  listar aquivos e diretorios 
+ls -lh ler um modo humano
+ls -lha ler em modo humano (ocultos)
+sempre que aparecer em azul é diretorio
+branco = arquivo
+azul claro = link simbolico (atalho)
+marca texto verde = perigo
+vermelho = arquivo compactado 
+/ =root 
+cd - sair
+cd ~ atalho para o diretorio pessoal
+cd home
+mkdir criar diretorio
+mkdir -v criar varios diretorios
+touch usado para criar arquivos 
+history -c usado para limpar
+rmidr apagar
+ cat -n /etc/services 417 linhas
  
