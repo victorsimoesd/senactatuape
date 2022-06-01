@@ -1,0 +1,19 @@
+LSB
+Linux Standard Base, traduzido para Base Padrão do Linux, é um projeto conjunto de diversas distribuições Linux sob a 
+estrutura organizacional da Fundação Linux para padronizar a estrutura de sistemas de software, 
+incluindo a hierarquia de sistema de arquivos usada no sistema operacional Linux.
+
+
+KERNEL
+Kernel é uma palavra inglesa usada na computação para designar o núcleo do sistema operacional, que é a parte principal de um computador.
+Uma simples alteração da versão do Kernel para uma mais antiga ou mais atual pode ser suficiente para
+resolver problemas de hardware e também de compatibilidade no computador.
+
+
+EXT4
+ext4 ou fourth extended filesystem (em português: quarto sistema de arquivos estendido) é um sistema de arquivos de registro para Linux, 
+desenvolvido para ser o sucessor do ext3.
+
+
+FHS
+O Filesystem Hierarchy Standard, ou FHS, define os principais diretórios, e o seu conteúdo, em um sistema operacional Linux ou do tipo Unix.
