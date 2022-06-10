@@ -30,4 +30,18 @@ touch usado para criar arquivos
 history -c usado para limpar
 rmidr apagar
  cat -n /etc/services 417 linhas
+ ifconfig informações de rede basica (linux)
+ipconfig informações de rede basica (windows)
+
+ping testar a internet
+8.8.8.8 endereço ip do google
+
+gateway responsavel por te levar a internet
+
+route -n ver gateway
+
+resolvectl 
+ipconfig /all (windows)
+
+nslookup google.com
  
